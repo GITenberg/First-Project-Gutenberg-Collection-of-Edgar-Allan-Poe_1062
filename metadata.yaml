@@ -1,0 +1,28 @@
+_repo: First-Project-Gutenberg-Collection-of-Edgar-Allan-Poe_1062
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: ''
+gutenberg_issued: '1997-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1062'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy poetry, American'
+- !lcc 'PS'
+- !lcsh 'Horror tales, American'
+- GITenberg
+tableOfContents: The Raven -- The Masque of the Red Death  -- The Cask of Amontillado
+title: First Project Gutenberg Collection of Edgar Allan Poe
+url: http://www.gutenberg.org/ebooks/1062
